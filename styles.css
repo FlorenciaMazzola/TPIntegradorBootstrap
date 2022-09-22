@@ -1,0 +1,32 @@
+
+h2, h5, h6{
+    text-align: center;
+}
+.texto-verde{
+ color: #198754;
+}
+
+#seccion-1{
+    background-image: url("img/hawaii.jpg");
+    text-align: right;
+    padding: 15% 0%;
+    background-repeat: no-repeat;
+    color: #fff;
+    
+}
+#seccion-2{
+    padding: 20px;   
+}
+
+#seccion-4{
+    padding: 20px 200px 20px 200px;   
+}
+
+footer {
+    position: relative;
+    padding: 20px 50px;
+    clear: both;
+    background: #1b4f72;
+    text-align: center;
+    color: #fff;
+}
