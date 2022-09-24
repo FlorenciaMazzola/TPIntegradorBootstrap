@@ -18,20 +18,14 @@ h2, h5, h6{
     padding: 20px;   
 }
 
-#seccion-3{
-    display:flex;   
-    max-height: 100vh;
-    width: 100%;
-    padding: 5px;
+#seccion-4{
+      padding:5% 15%;
 }
 
-#seccion-4{
-    padding: 20% 100%;   
-}
 
 footer {
     position: relative;
-    padding: 20px 50px;
+    padding: 2% 5%;
     clear: both;
     background: #1b4f72;
     text-align: center;
