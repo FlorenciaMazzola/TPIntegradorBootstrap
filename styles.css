@@ -11,16 +11,21 @@ h4{
 }
 
 .texto-card{
-    text-align: end;
-    padding: 10%;
+    padding-top: 15%; 
+    padding-right: 8%;
+    font-weight: bold;
 }
 
 .card-img1{
     opacity: 0.7;
+    max-width: 100%;
+    height: auto;
+    
+
 }
 
 #seccion-1{
-    text-align: end;  
+    text-align: end;
 }
 
 #seccion-2{
