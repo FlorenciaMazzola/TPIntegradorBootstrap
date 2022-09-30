@@ -2,20 +2,24 @@
 h2, h5, h6{
     text-align: center;
 }
+
+h4{
+    text-align: end;
+}
 .texto-verde{
  color: #198754;
 }
 
-
-
 #seccion-1{
-    filter: brightness(80%);
+    background-image: url("img/hawaii.jpg");
+    background-size: 100%;
+    padding: 20% 10%;
     text-align: right;
     background-repeat: no-repeat;
-    color: #fff;
-    text-decoration-color: #fff;
+    color: #fff;  
     
 }
+
 #seccion-2{
     padding: 2% 5%;   
 }
