@@ -6,6 +6,10 @@ h2, h5, h6{
 h4{
     text-align: end;
 }
+
+p{
+    font-size: 1.6vw;
+}
 .texto-verde{
  color: #198754;
 }
@@ -36,12 +40,15 @@ h4{
       padding:5% 15%;
 }
 
+.col{
+    display: flex;
+    align-items: center;
+}
+
 footer {
     display: flex;
     position: relative;
     padding: 2% 5%;
-    clear: both;
     background: #1b4f72;
-    text-align: center;
     color: #fff;
 }
